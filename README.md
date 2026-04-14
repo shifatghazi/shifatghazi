@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shifatghazi/shifatghazi/main/banner.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/shifatghazi/shifatghazi/main/banner.png" width="300"/>
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/shifat-ghazi">
