@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 - 💻 Software Developer Intern @ Ciena (Waveserver Platform)
-- 🧠 Former Data Engineer @ Global Affairs Canada
+- 🧠 Former Data Engineer @ Government of Canada
 - 🔬 ML Research Assistant (LLMs, RAG, Cybersecurity)
 - 🔐 Secret Clearance (Canada)
 
