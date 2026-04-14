@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/shifatghazi/shifatghazi/main/banner.png" width="500"/>
+</p>
+<p align="center">
   <a href="https://linkedin.com/in/shifat-ghazi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
