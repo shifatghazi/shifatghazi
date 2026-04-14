@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Shifat</h1>
 
-<!--
-**shifatghazi/shifatghazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Engineering @ Carleton | SWE Intern @ Ciena
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Software Developer Intern @ Ciena (Waveserver Platform)
+- 🧠 Former Data Engineer @ Global Affairs Canada
+- 🔬 ML Research Assistant (LLMs, RAG, Cybersecurity)
+- 🔐 Secret Clearance (Canada)
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,linux,docker,kubernetes,azure,git,js" />
+</p>
+
+---
+
+## 🧩 Highlight Projects
+
+### ⚙️ Concurrency Across Shared Memory
+- Built in C using semaphores + shared memory
+- Designed **deadlock-free synchronization system**
+
+### 🧠 RAG Cybersecurity Research
+- Built LLM pipeline to analyze firewall logs
+- Improved threat intelligence workflows
+
+### 🏛️ Governance App (GAC)
+- Built approval-based system with Power Apps + Dataverse
+- Automated enterprise data workflows
+
+---
+
+## 📫 Connect
+- LinkedIn: https://linkedin.com/in/shifat-ghazi
+- GitHub: https://github.com/shifatghazi
