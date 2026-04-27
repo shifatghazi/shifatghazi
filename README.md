@@ -1,20 +1,22 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/shifatghazi/shifatghazi/main/banner.png" width="300"/>
 </p>
+
 <p align="center">
+  <a href="https://shifatghazi.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-black?style=for-the-badge" />
+  </a>
   <a href="https://linkedin.com/in/shifat-ghazi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/shifatghazi/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-In%20Progress-black?style=for-the-badge" />
   </a>
 </p>
 
 <h1 align="center">Hey 👋, I'm Shifat</h1>
 
 <p align="center">
+  🌐 <b>Portfolio:</b> https://shifatghazi.com <br/>
   Software Engineering @ Carleton | SWE Intern @ Ciena <br/>
-  Passionate about Systems Programming, Concurrency, and Scalable Software
+  Building high-performance systems and scalable software
 </p>
 
 ---
@@ -25,7 +27,7 @@ I'm a Software Engineering student at Carleton University currently working as a
 
 Previously, I worked as a Data Engineer with the Government of Canada, where I built data pipelines, dashboards, and automation tools using Azure and the Power Platform. I’ve also worked as a Machine Learning Research Assistant, exploring LLMs, RAG pipelines, and cybersecurity applications.
 
-I’m especially interested in **systems programming, concurrency, and building high-performance software**, and I enjoy working close to the hardware and understanding how things operate under the hood.
+I’m especially interested in **systems programming, concurrency, and performance-focused software**, and I enjoy working close to the hardware to understand how things operate under the hood.
 
 ---
 
@@ -74,5 +76,6 @@ Developed an internal tool to manage data workflows and approvals.
 
 ## 📫 Connect
 
+- 🌐 Portfolio: https://shifatghazi.com  
 - LinkedIn: https://linkedin.com/in/shifat-ghazi  
 - GitHub: https://github.com/shifatghazi  
